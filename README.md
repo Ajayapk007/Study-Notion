@@ -2,33 +2,8 @@
 <div align="center">
 <h1>StudyNotion: The Ed-Tech Platform</h1>
  </div>
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
- 
-
 
 StudyNotion is a fully functional ed-tech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
 
@@ -74,7 +49,7 @@ To get a local copy up and running follow these simple example steps.
 1. Get a free API Key from Cloudinary and Razorpay
 2. Clone the repo
    ```sh
-   git clone https://github.com/https://github.com/Ajayapk007/Study-Notion.git
+   git clone git clone https://github.com/Ajayapk007/Study-Notion.git
    ```
 3. Go to the
    ```sh
